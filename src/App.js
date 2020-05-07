@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          <code>Lorem ipusm</code>
+          <code>Lorem ipsum</code>
         </p>
       </header>
     </div>
